@@ -1,0 +1,1 @@
+python classifier.py --model yolov5s --data GTSRB --epochs 5 --img 128
