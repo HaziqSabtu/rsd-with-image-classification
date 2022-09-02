@@ -2,8 +2,7 @@
 <h1>Road Sign Detection (RSD)</h1>
 <h3>Developed for the usage of autonomous driving to detect road sign on the road.</h3>
 <p>
-   <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
-   <img width="850" src="https://github.com/ultralytics/yolov5/releases/download/v1.0/splash.jpg"></a>
+   <img width="850" src="/screenshot/screenshot.png"></a>
    <p>Cuda Verison: 11.1</p>
    <p>PyTorch Verison: 1.10.2</p>
 </p>
